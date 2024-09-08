@@ -1,3 +1,3 @@
 # To-do-list
 
-This is my first React project. A basic to-do-list.
+This is a basic to-do list, built with React.
